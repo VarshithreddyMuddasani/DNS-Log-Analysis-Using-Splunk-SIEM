@@ -9,3 +9,9 @@ Objectives
 - Identify abnormal DNS activity and traffic spikes.
 - Detect suspicious or malicious domains.
 - Gain hands-on experience with SIEM-based threat monitoring.
+
+Technologies Used
+- Splunk Enterprise / Splunk SIEM
+- SPL (Search Processing Language)
+- DNS Log Data
+- - Security Information and Event Management (SIEM)
