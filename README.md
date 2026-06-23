@@ -24,3 +24,18 @@ Technologies Used
 - SPL (Search Processing Language)
 - DNS Log Data
 - Security Information and Event Management (SIEM)
+
+Learning Outcomes
+
+- SIEM log management and monitoring.
+- DNS traffic analysis techniques.
+- Security event investigation.
+- Threat hunting using SPL queries.
+- Detection of suspicious network activities.
+
+Future Enhancements
+- Integration with threat intelligence feeds.
+- Automated alert generation.
+- Real-time DNS anomaly detection dashboards.
+- Machine learning-based threat detection.
+- Advanced visualizations and reporting.
