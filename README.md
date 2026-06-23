@@ -39,3 +39,7 @@ Future Enhancements
 - Real-time DNS anomaly detection dashboards.
 - Machine learning-based threat detection.
 - Advanced visualizations and reporting.
+
+Conclusion
+
+This project provides practical experience in DNS security monitoring using Splunk SIEM. By analyzing DNS logs and investigating anomalies, security analysts can proactively detect threats, improve visibility into network activity, and strengthen organizational cybersecurity defenses.
