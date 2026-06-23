@@ -10,8 +10,17 @@ Objectives
 - Detect suspicious or malicious domains.
 - Gain hands-on experience with SIEM-based threat monitoring.
 
+Features
+- DNS log ingestion and indexing.
+- Custom source type configuration.
+- DNS event searching and filtering.
+- Domain frequency analysis.
+- Top DNS source identification.
+- Suspicious domain investigation.
+- SPL-based security monitoring and reporting.
+
 Technologies Used
 - Splunk Enterprise / Splunk SIEM
 - SPL (Search Processing Language)
 - DNS Log Data
-- - Security Information and Event Management (SIEM)
+- Security Information and Event Management (SIEM)
